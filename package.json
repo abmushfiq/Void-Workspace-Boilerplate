@@ -2,14 +2,14 @@
     "bin": {
         "create-void-app": "./index.js"
     },
-    "name": "startproject",
-    "version": "1.0.0",
+    "name": "void-workspace",
+    "version": "1.0.1",
     "description": "Build project with CLI",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": "",
+    "repository": "https://github.com/abmushfiq/Void-Workspace-Boilerplate.git",
     "author": "VOID TECHNOLOGY(PVT)LTD",
     "license": "MIT",
     "dependencies": {
